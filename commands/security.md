@@ -1,6 +1,6 @@
 ## Usage
 
-`/project:security <CODE_SCOPE_DESCRIPTION>`
+`/security <CODE_SCOPE_DESCRIPTION>`
 
 ## Context
 

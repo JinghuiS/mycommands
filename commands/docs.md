@@ -1,6 +1,6 @@
 ## Usage
 
-`/project:docs <CODE_SCOPE_DESCRIPTION>`
+`/docs <CODE_SCOPE_DESCRIPTION>`
 
 ## Context
 

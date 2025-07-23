@@ -1,5 +1,5 @@
 ## Usage
-`/project:code  <FEATURE_DESCRIPTION>`
+`/code  <FEATURE_DESCRIPTION>`
 
 ## Context
 - Feature/functionality to implement: $ARGUMENTS

@@ -1,6 +1,6 @@
 ## Usage
 
-`/project:cicd <PROJECT_DESCRIPTION>`
+`/cicd <PROJECT_DESCRIPTION>`
 
 ## Context
 

@@ -1,5 +1,5 @@
 ## Usage
-`/project:refactor.md <REFACTOR_SCOPE>`
+`/refactor.md <REFACTOR_SCOPE>`
 
 ## Context
 - Refactoring scope/target: $ARGUMENTS

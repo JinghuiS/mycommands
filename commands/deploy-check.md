@@ -1,5 +1,5 @@
 ## Usage
-`/project:deploy-check.md <DEPLOYMENT_TARGET>`
+`/deploy-check.md <DEPLOYMENT_TARGET>`
 
 ## Context
 - Deployment target/environment: $ARGUMENTS

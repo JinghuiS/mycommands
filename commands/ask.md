@@ -1,5 +1,5 @@
 ## Usage
-`project:/ask <TECHNICAL_QUESTION>`
+`/ask <TECHNICAL_QUESTION>`
 
 ## Context
 - Technical question or architecture challenge: $ARGUMENTS

@@ -1,6 +1,6 @@
 ## Usage
 
-`/project:think <TASK_DESCRIPTION>`
+`/think <TASK_DESCRIPTION>`
 
 ## Context
 
